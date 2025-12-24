@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body img {
+    width: 100%;
+}
+
+/* .main {
+    width: 100vw;
+    height: 100vh;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} */
+
+.box1 {
+    width: 100vw;
+    height: 100vh;
+    background-color: #141414ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2 {
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+    width: 200px;
+    height: 330px;
+    border-radius: 10px;
+    background-color: #1f1f1fff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+
+}
+
+.avatar {
+    width: 50px;
+    border-radius: 100%;
+    margin-top: 12px;
+    margin-bottom: 8px;
+}
+
+.box2 h1 {
+    color: rgb(220, 211, 211);
+    font-size: 15px;
+    margin-bottom: 4px;
+}
+
+.box2 p {
+    color: #c5f82aff;
+    font-size: 9px;
+    margin-bottom: 15px;
+
+}
+
+.box2 h4 {
+    color: rgb(194, 190, 190);
+    font-size: 8px;
+    margin-bottom: 11px;
+
+}
+
+nav {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+
+
+}
+
+nav p1 {
+    /* border: 2px solid black; */
+    width: 170px;
+    height: 25px;
+    font-size: 10px;
+    border-radius: 4px;
+    color: whitesmoke;
+    background-color: #333333ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav p2 {
+    /* border: 2px solid black; */
+    width: 170px;
+    height: 25px;
+    font-size: 10px;
+    border-radius: 4px;
+    color: whitesmoke;
+    background-color: #333333ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav p3 {
+    /* border: 2px solid black; */
+    width: 170px;
+    height: 25px;
+    font-size: 10px;
+    border-radius: 4px;
+    color: whitesmoke;
+    background-color: #333333ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav p4 {
+    /* border: 2px solid black; */
+    width: 170px;
+    height: 25px;
+    font-size: 10px;
+    border-radius: 4px;
+    color: whitesmoke;
+    background-color: #333333ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+nav p5 {
+    /* border: 2px solid black; */
+    width: 170px;
+    height: 25px;
+    font-size: 10px;
+    border-radius: 4px;
+    color: whitesmoke;
+    background-color: #333333ff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
